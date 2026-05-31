@@ -4,7 +4,7 @@ The Compass sample application is an app that helps users build and book
 itineraries for trips. It’s a robust sample application with many features, routes, and screens. The app communicates
 with an HTTP server, has development and production environments, brand-specific styling, and high test coverage. In
 these ways and more, it simulates a real-world, feature rich Flutter application.
- Compass app was originally [designed and built by the Firebase GenKit team](https://developers.googleblog.com/en/how-firebase-genkit-helped-add-ai-to-our-compass-app/).
+
 
 ## Running the app
 
