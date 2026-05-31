@@ -4,15 +4,7 @@ The Compass sample application is an app that helps users build and book
 itineraries for trips. It’s a robust sample application with many features, routes, and screens. The app communicates
 with an HTTP server, has development and production environments, brand-specific styling, and high test coverage. In
 these ways and more, it simulates a real-world, feature rich Flutter application.
-
-The code in this application is used for explaining architecture in a Flutter application.
-
-![compass app splash screen](./docs/Global%20—%20Splash.png)
-![compass app activities screen](./docs/Legacy%20—%20Activities.png)
-![compass app home screen](./docs/Legacy%20—%20Home.png)
-![compass app booking screen](./docs/Legacy%20—%20Book.png)
-
-The Compass app was originally [designed and built by the Firebase GenKit team](https://developers.googleblog.com/en/how-firebase-genkit-helped-add-ai-to-our-compass-app/).
+ Compass app was originally [designed and built by the Firebase GenKit team](https://developers.googleblog.com/en/how-firebase-genkit-helped-add-ai-to-our-compass-app/).
 
 ## Running the app
 
@@ -54,6 +46,4 @@ cd app
 $ flutter test integration_test/app_server_data_test.dart
 ```
 
-Running the tests together with `flutter test integration_test` will fail.
-See: https://github.com/flutter/flutter/issues/101031
 
